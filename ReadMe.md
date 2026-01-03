@@ -4,23 +4,4 @@ I’m Shubh Srivastava, a Computer Science student with strong problem-solving s
 
 ---
 
-## 🚀 Repositories
-
-### 🔐 Secure-IP-Ownership-Verification-Using-Blockchain-and-ZKP
-- Implemented a **custom blockchain in C++** for registering and verifying digital IP ownership  
-- Integrated **Zero-Knowledge Proofs (Schnorr Protocol)** to verify ownership without revealing sensitive data  
-- Designed a **REST API backend** enabling future frontend and system integrations  
-
-### 🤖 ML_project_demo_2025
-- Built an **end-to-end machine learning pipeline** including preprocessing and model evaluation  
-- Compared multiple ML models to identify the best-performing approach  
-- Focused on reproducibility, clean code structure, and performance metrics  
-
-### 🌐 Frontend & Web Experiments
-- Developed UI components using **React, JavaScript, HTML, and CSS**  
-- Integrated frontend logic with backend APIs  
-- Focused on responsive design and clean user experience  
-
----
-
 📌 *I enjoy solving challenging problems, learning new technologies, and building systems that balance performance, security, and usability.*
