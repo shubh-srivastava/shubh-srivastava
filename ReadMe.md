@@ -1,93 +1,26 @@
-# 👋 Hi, I'm Shubh Srivastava
+## 👋 About Me
 
-🎓 Computer Science Student | 💻 Software Developer | 🔐 Blockchain & Cryptography Enthusiast  
-🚀 Passionate about building secure, scalable, and impactful software systems
-
----
-
-## 🧠 About Me
-- 🔢 Strong problem solver with solid foundations in **DSA & Algorithms**
-- 🔐 Actively working on **Blockchain, Cryptography, and Zero-Knowledge Proofs**
-- 🤖 Interested in **Machine Learning & Deep Learning**
-- 🌐 Frontend experience with **JavaScript & React**
-- 🛠️ Love building **end-to-end projects** — from core logic to UI
+I’m Shubh Srivastava, a Computer Science student with strong problem-solving skills and hands-on experience in C++, JavaScript, Python, and SQL. I enjoy building end-to-end systems that combine solid algorithms with real-world applications, with particular interest in Blockchain, Cryptography (Zero-Knowledge Proofs), Machine Learning, and modern web development using React. I focus on writing clean, optimized, and scalable code while continuously learning advanced system design and security concepts.
 
 ---
 
-## 🧑‍💻 Tech Stack
+## 🚀 Repositories
 
-**Languages**
-- C++
-- Java
-- JavaScript
-- Python
-- SQL
+### 🔐 Secure-IP-Ownership-Verification-Using-Blockchain-and-ZKP
+- Implemented a **custom blockchain in C++** for registering and verifying digital IP ownership  
+- Integrated **Zero-Knowledge Proofs (Schnorr Protocol)** to verify ownership without revealing sensitive data  
+- Designed a **REST API backend** enabling future frontend and system integrations  
 
-**Web & Frontend**
-- React
-- HTML5
-- CSS3
-- Vite
+### 🤖 ML_project_demo_2025
+- Built an **end-to-end machine learning pipeline** including preprocessing and model evaluation  
+- Compared multiple ML models to identify the best-performing approach  
+- Focused on reproducibility, clean code structure, and performance metrics  
 
-**Databases**
-- MySQL
-- RDBMS Concepts
-
-**Blockchain & Security**
-- Custom Blockchain Implementation
-- Zero-Knowledge Proofs (Schnorr Protocol)
-- Cryptographic Hashing & Digital Signatures
-
-**Machine Learning**
-- Scikit-learn
-- CNNs
-- Data Preprocessing & Model Evaluation
+### 🌐 Frontend & Web Experiments
+- Developed UI components using **React, JavaScript, HTML, and CSS**  
+- Integrated frontend logic with backend APIs  
+- Focused on responsive design and clean user experience  
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔐 Secure IP Ownership Verification (Blockchain + ZKP)
-- Implemented a **custom blockchain** in C++
-- Integrated **Zero-Knowledge Proofs** to verify ownership without revealing secrets
-- REST API backend + frontend integration ready
-- Focus on **privacy, integrity, and tamper resistance**
-
-### 🤖 Machine Learning Project Demo
-- End-to-end ML pipeline
-- Feature engineering, model comparison & evaluation
-- Focus on clean code and reproducibility
-
-### 🧮 Competitive Programming Solutions
-- Solved problems using:
-  - Dynamic Programming
-  - Binary Search
-  - Graph Algorithms
-  - Union-Find
-- Optimized solutions with clear logic and edge case handling
-
----
-
-## 📊 GitHub Stats
-- 🗂️ Active repositories with real-world and academic projects
-- 📈 Regularly improving code quality and architecture
-- ⭐ Focused on **depth over quantity**
-
----
-
-## 🌱 Currently Learning
-- Advanced Cryptography
-- Zero-Knowledge Proof Systems
-- System Design
-- Full-stack Architecture
-- Agentic AI & Intelligent Systems
-
----
-
-## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/shubh-srivastava-785812253/
-- 🧑‍💻 GitHub: https://github.com/shubh-srivastava
-
----
-
-⭐ *Always open to collaboration, learning, and building meaningful software.*
+📌 *I enjoy solving challenging problems, learning new technologies, and building systems that balance performance, security, and usability.*
