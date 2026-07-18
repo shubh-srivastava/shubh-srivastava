@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="350" viewBox="0 0 490 350" role="img" aria-label="Shubh Srivastava profile information">
+  <title>Shubh Srivastava profile information</title>
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .key { font: 600 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .value { font: 500 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+  </style>
+  <rect width="100%" height="100%" rx="12" fill="#0d1117" />
+  <rect x="0.5" y="0.5" width="489" height="349" rx="11" fill="none" stroke="#30363d" />
+  <circle cx="28" cy="26" r="6" fill="#ff5f56" />
+  <circle cx="48" cy="26" r="6" fill="#ffbd2e" />
+  <circle cx="68" cy="26" r="6" fill="#27c93f" />
+  <text x="34" y="55" fill="#8b949e" class="mono" font-size="14">shubh@github:~$ whoami</text>
+  <g class="mono">
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.32s" begin="0.25s" fill="freeze" /><animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.32s" begin="0.25s" fill="freeze" /><text x="34" y="78" fill="#7ee787" class="key">Name</text><text x="146" y="78" fill="#c9d1d9" class="value">Shubh Srivastava</text></g><g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.32s" begin="0.36s" fill="freeze" /><animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.32s" begin="0.36s" fill="freeze" /><text x="34" y="112" fill="#7ee787" class="key">Role</text><text x="146" y="112" fill="#c9d1d9" class="value">Computer Science Student</text></g><g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.32s" begin="0.47s" fill="freeze" /><animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.32s" begin="0.47s" fill="freeze" /><text x="34" y="146" fill="#7ee787" class="key">Focus</text><text x="146" y="146" fill="#c9d1d9" class="value">Algorithms, security, ML, systems</text></g><g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.32s" begin="0.58s" fill="freeze" /><animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.32s" begin="0.58s" fill="freeze" /><text x="34" y="180" fill="#7ee787" class="key">Stack</text><text x="146" y="180" fill="#c9d1d9" class="value">C++ / Python / JavaScript / SQL / React</text></g><g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.32s" begin="0.69s" fill="freeze" /><animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.32s" begin="0.69s" fill="freeze" /><text x="34" y="214" fill="#7ee787" class="key">Interests</text><text x="146" y="214" fill="#c9d1d9" class="value">Blockchain, ZK proofs, cryptography</text></g><g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.32s" begin="0.80s" fill="freeze" /><animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.32s" begin="0.80s" fill="freeze" /><text x="34" y="248" fill="#7ee787" class="key">Style</text><text x="146" y="248" fill="#c9d1d9" class="value">Clean, optimized, scalable code</text></g><g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.32s" begin="0.91s" fill="freeze" /><animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.32s" begin="0.91s" fill="freeze" /><text x="34" y="282" fill="#7ee787" class="key">GitHub</text><text x="146" y="282" fill="#c9d1d9" class="value">github.com/shubh-srivastava</text></g>
+  </g>
+  <text x="34" y="322" fill="#8b949e" class="mono" font-size="13">Building reliable software from first principles.</text>
+</svg>
