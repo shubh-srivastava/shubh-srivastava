@@ -1,16 +1,15 @@
 {
   "username": "shubh-srivastava",
   "source": "github",
-  "generated_at": "2026-09-05T10:40:07Z",
-  "total": 427,
-  "current_streak": 56,
+  "generated_at": "2026-09-06T11:02:05Z",
+  "total": 429,
+  "current_streak": 57,
   "longest_streak": 113,
   "best_day": {
     "date": "2025-12-23",
     "count": 12
   },
   "monthly": {
-    "2025-08": 0,
     "2025-09": 0,
     "2025-10": 0,
     "2025-11": 0,
@@ -23,44 +22,9 @@
     "2026-06": 41,
     "2026-07": 49,
     "2026-08": 60,
-    "2026-09": 9
+    "2026-09": 11
   },
   "days": [
-    {
-      "date": "2025-08-31",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-01",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-02",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-03",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-04",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-05",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-06",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-09-07",
       "count": 0,
@@ -1878,6 +1842,11 @@
     },
     {
       "date": "2026-09-05",
+      "count": 2,
+      "level": 2
+    },
+    {
+      "date": "2026-09-06",
       "count": 1,
       "level": 1
     }
